@@ -9,3 +9,11 @@
 ## 621
 <img width="754" height="694" alt="image" src="https://github.com/user-attachments/assets/6c0693a6-fd8a-4c0c-a5b6-8354319b4012" />
 <img width="755" height="693" alt="image" src="https://github.com/user-attachments/assets/a2d8601a-bdf1-4b01-8590-236f6075504c" />
+
+## 912
+<img width="757" height="692" alt="image" src="https://github.com/user-attachments/assets/29f1bb1e-0d31-41fc-8882-bd2ea539414d" />
+<img width="760" height="697" alt="image" src="https://github.com/user-attachments/assets/bdf12ab8-6c79-4d94-90d8-4beb4382fdfe" />
+
+## 973
+<img width="754" height="692" alt="image" src="https://github.com/user-attachments/assets/a200e4e1-d661-4e87-9afc-e7783f50ea0a" />
+<img width="757" height="696" alt="image" src="https://github.com/user-attachments/assets/5ea1021e-3e1e-4f47-bfdd-f083f467e8ea" />
